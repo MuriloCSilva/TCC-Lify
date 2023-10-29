@@ -73,10 +73,6 @@ if (data) {
                         <span><Icon name="mdi:receipt-text" class="sub_menu_icon"/></span>
                         <h3>Receitas</h3>
                     </NuxtLink>
-                    <NuxtLink class="sidebar-link" to="./anuncios">
-                        <span><Icon name="mdi:basket" class="sub_menu_icon"/></span>
-                        <h3>Anúncios</h3>
-                    </NuxtLink>
                     <NuxtLink class="sidebar-link" to="../">
                         <span><Icon name="mdi:keyboard-backspace" class="sub_menu_icon"/></span>
                         <h3>Voltar</h3>

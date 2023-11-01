@@ -6,6 +6,8 @@ Este é o website que eu criei para o meu trabalho de conclusão de curso na esc
 
 A aplicação consiste em um website no qual o usuário pode acessar receitas de acordo com seu gosto. Caso ele tenha alguma intolerância a um tipo de alimento, poderá verificar se a receita contém algum ingrediente ao qual ele seja alérgico.
 
+# Tecnologias Usadas
+
 ## Back end
 Node.JS
 Supabase
@@ -16,7 +18,19 @@ HTML
 SCSS
 JavaScript / TypeScript
 
+# Design
+Canva
+Figma
+Photoshop
+Dreamwaver
+
+# Organização
+Notion
+Discord
+
 # Imagens do projeto
+
+## Website
 ![Pagina de Login](https://i.imgur.com/LnGRUMF.png)
 ![Index](https://i.imgur.com/DmL8GcB.png)
 ![Index2](https://i.imgur.com/k6kqWn9.png)
@@ -25,7 +39,13 @@ JavaScript / TypeScript
 ![Pagina de Edição de Perfil](https://i.imgur.com/4cd0bm2.png)
 ![Navbar Imagem do Usuário](https://i.imgur.com/JFiatQV.png)
 ![Admin Panel](https://i.imgur.com/fRx4anF.png)
-![Criar Receitas](blob:https://imgur.com/c8cc02a8-5e0b-4e08-8fa1-935c74ec4db3)
+![Criar Receitas](https://i.imgur.com/BE9F5rJ.png)
+
+## Notion
+![Notion](https://i.imgur.com/m1gIoEm.png)
+
+## Modelo Conceitual
+![Modelo Logico](https://i.imgur.com/sAyRdPB.png)
 
 # Como executar o projeto
 

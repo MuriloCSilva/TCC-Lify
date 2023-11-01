@@ -17,7 +17,15 @@ SCSS
 JavaScript / TypeScript
 
 # Imagens do projeto
-![]
+![Pagina de Login](https://i.imgur.com/LnGRUMF.png)
+![Index](https://i.imgur.com/DmL8GcB.png)
+![Index2](https://i.imgur.com/k6kqWn9.png)
+![Pagina de Receitas](https://i.imgur.com/5PrWYp3.png)
+![Pagina de FAQ](https://i.imgur.com/JmPVDIK.png)
+![Pagina de Edição de Perfil](https://i.imgur.com/4cd0bm2.png)
+![Navbar Imagem do Usuário](https://i.imgur.com/JFiatQV.png)
+![Admin Panel](https://i.imgur.com/fRx4anF.png)
+![Criar Receitas](blob:https://imgur.com/c8cc02a8-5e0b-4e08-8fa1-935c74ec4db3)
 
 # Como executar o projeto
 

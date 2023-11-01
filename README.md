@@ -17,6 +17,7 @@ SCSS
 JavaScript / TypeScript
 
 # Imagens do projeto
+![]
 
 # Como executar o projeto
 

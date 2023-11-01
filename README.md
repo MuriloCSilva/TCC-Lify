@@ -45,7 +45,7 @@ Discord
 ![Notion](https://i.imgur.com/m1gIoEm.png)
 
 ## Modelo Conceitual
-![Modelo Logico](https://i.imgur.com/sAyRdPB.png)
+![Modelo Logico](https://i.imgur.com/Q87I1KT.png)
 
 # Como executar o projeto
 

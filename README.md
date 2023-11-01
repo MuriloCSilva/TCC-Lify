@@ -1,63 +1,38 @@
-# Nuxt 3 Minimal Starter
+# Life for You
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Sobre o projeto
 
-## Setup
+Este é o website que eu criei para o meu trabalho de conclusão de curso na escola técnica Ilza Nascimento Pintus - SJC.
 
-Make sure to install the dependencies:
+A aplicação consiste em um website no qual o usuário pode acessar receitas de acordo com seu gosto. Caso ele tenha alguma intolerância a um tipo de alimento, poderá verificar se a receita contém algum ingrediente ao qual ele seja alérgico.
+
+## Back end
+Node.JS
+Supabase
+
+## Front end
+Nuxt.JS
+HTML
+SCSS
+JavaScript / TypeScript
+
+# Imagens do projeto
+![]
+
+# Como executar o projeto
+
+Pré-requisitos: npm
 
 ```bash
-# npm
-npm install
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
 
-# pnpm
-pnpm install
+# entrar na pasta do projeto front end web
+cd lify-website-main
 
-# yarn
-yarn install
-```
+# instalar dependências
+npm i
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+# executar o projeto
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

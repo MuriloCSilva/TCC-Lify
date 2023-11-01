@@ -19,7 +19,7 @@
     .cardReceita {
         background-color: $card-color;
         width: 300px;
-        height: 250px;
+        height: 400px;
         border-radius: $border-radius1;
         overflow: hidden;
         img {

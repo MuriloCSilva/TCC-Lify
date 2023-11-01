@@ -24,7 +24,7 @@ if (data) {
 <template>
     <Navbar class="navbar" />
     <NavbarMobile class="navbar-mobile" />
-    <div class="grid_layout_receitas section">
+    <div class="grid_layout_receitas_user section">
         <div v-if="receitas" v-for="receitas in receitas" key="receita">
             <ReceitasComponent :receita="receitas" />
         </div>
@@ -32,7 +32,7 @@ if (data) {
     
 </template>
 <style>
-    .grid_layout_receitas {   
+    .grid_layout_receitas_user {   
         padding: 0 10rem;
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -47,7 +47,7 @@ if (data) {
             display: block;
         }
 
-        .grid_layout_receitas {
+        .grid_layout_receitas_user {
             padding: 0 2rem;
             display: flex;
             align-items: center;

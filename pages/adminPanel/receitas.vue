@@ -89,8 +89,8 @@ async function criarReceita() {
                 <h2>Criar Receita</h2>
                 <input v-model="nomeReceita" type="text" required placeholder="Insira o nome da receita">
                 <input v-model="urlImagemReceita" type="text" required placeholder="Insira a URL da imagem da receita">
-                <textarea v-model="ingredientesReceita" required rows="7" placeholder="Insira os ingredientes da receita aqui" maxlength="500"></textarea>
-                <textarea v-model="modoDePreparoReceita" required rows="7" placeholder="Insira o modo de preparo da receita aqui" maxlength="500"></textarea>
+                <textarea v-model="ingredientesReceita" required rows="1" placeholder="Insira os ingredientes da receita aqui" maxlength="500"></textarea>
+                <textarea v-model="modoDePreparoReceita" required rows="1" placeholder="Insira o modo de preparo da receita aqui" maxlength="500"></textarea>
                 <div class="kcal-peso-receita">
                     <input v-model="pesoReceita" type="number" name="" id="" placeholder="Peso da receita">
                     <input v-model="kcalReceita" type="number" name="" id="" placeholder="Calorias da receita">
@@ -186,8 +186,8 @@ async function criarReceita() {
                 <input type="text" placeholder="Pesquisar receita..." class="receitas-search-bar">
                 <button @click="switchMenuCriarReceita">+ Criar Receita</button>
             </div>
-            <div class="grid_layout_receitas section">
-                <div v-if="receitas" v-for="receita in receitas" key="receita">
+            <div class="grid_layout_receitas_admin section">
+                <div v-if="receitas" v-for="receitas in receitas" key="receita">
                     <ReceitasComponentAdmin :receita="receitas" />
                 </div>
             </div>
@@ -195,6 +195,10 @@ async function criarReceita() {
     </div>
 </template>
 <style lang="scss">
+
+.container {
+    overflow-y: hidden  ;
+}
 
     .form-criar-receita {
         display: block;
@@ -230,7 +234,7 @@ async function criarReceita() {
         display: block;
         position: absolute;
         font-size: 1.2rem;
-        left: 58rem;
+        left: 52rem;
     }
 
     .form-criar-receita form span:hover {
@@ -396,10 +400,13 @@ async function criarReceita() {
         cursor: pointer;
     }
 
-    .grid_layout_receitas {   
+    .grid_layout_receitas_admin {   
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         gap: 15px;
         margin-top: 3rem;
+        overflow: hidden;
+        height: 70vh;
+        overflow-y: scroll;
     }
 </style>

@@ -1,3 +1,5 @@
+![Lify](https://i.imgur.com/tfLJcDv.png)
+
 # Life for You
 
 # Sobre o projeto

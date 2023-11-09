@@ -3,7 +3,7 @@
     Life for you
 </h1>
 
-# Sobre o projeto
+# 📌Sobre o projeto
 
 Este é o website que eu criei para o meu trabalho de conclusão de curso na escola técnica Ilza Nascimento Pintus - SJC.
 

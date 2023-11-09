@@ -1,6 +1,7 @@
-![Lify](https://i.imgur.com/tfLJcDv.png)
-
-# Life for You
+<h1 align="center">
+	<img src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="Logo"  width="240"><br><br>
+    Life for you
+</h1>
 
 # Sobre o projeto
 

@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://i.imgur.com/tfLJcDv.png"  alt="Logo"  width="500"><br><br>
+	<img src="https://i.imgur.com/8IdDLFj.png"  alt="Logo"  width="500"><br><br>
     Life for you
 </h1>
 

@@ -11,6 +11,43 @@ A aplicação consiste em um website no qual o usuário pode acessar receitas de
 
 # Tecnologias Usadas
 
+<div>
+    <p align="center">
+        <em>
+            (Coloque aqui as linguagens que construíram seu Projeto.)<br>
+            (Put here the languages that built your Project.)<br><br>
+        </em>
+    <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Yuri">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Language: Typescript">
+    </a>    
+    <a href="#">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Language: Typescript">
+    </a>
+    
+    </p>
+</div>
+
 ## Back end
 Node.JS
 Supabase

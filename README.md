@@ -3,22 +3,13 @@
     	Life for you
 </h1>
 
-## 📌Sobre o projeto
-
-Este é o website que eu criei para o meu trabalho de conclusão de curso na escola técnica Ilza Nascimento Pintus - SJC.
-
-A aplicação consiste em um website no qual o usuário pode acessar receitas de acordo com seu gosto. Caso ele tenha alguma intolerância a um tipo de alimento, poderá verificar se a receita contém algum ingrediente ao qual ele seja alérgico.
-
-# Tecnologias Usadas
-
 <div>
     <p align="center">
         <em>
-            (Coloque aqui as linguagens que construíram seu Projeto.)<br>
-            (Put here the languages that built your Project.)<br><br>
+            Tecnologias usadas<br><br>
         </em>
-    <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Yuri">
+
+  <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Yuri">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Language: Typescript">
@@ -30,7 +21,7 @@ A aplicação consiste em um website no qual o usuário pode acessar receitas de
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Language: Typescript">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Language: Typescript">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Language: Typescript">
     </a>    
     <a href="#">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Language: Typescript">
@@ -39,34 +30,35 @@ A aplicação consiste em um website no qual o usuário pode acessar receitas de
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Language: Typescript">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Language: Typescript">
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Language: Typescript">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Language: Typescript">
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Language: Typescript">
     </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Language: Typescript">
+    </a>
+	<a href="#">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Language: Typescript">
+    </a>
+
     
-    </p>
+   </p>
 </div>
 
-## Back end
-Node.JS
-Supabase
+## 📌Sobre o projeto
 
-## Front end
-Nuxt.JS
-HTML
-SCSS
-JavaScript / TypeScript
+Este é o website que eu criei para o meu trabalho de conclusão de curso na escola técnica Ilza Nascimento Pintus - SJC.
 
-# Design
-Canva
-Figma
-Photoshop
-Dreamwaver
+A aplicação consiste em um website no qual o usuário pode acessar receitas de acordo com seu gosto. Caso ele tenha alguma intolerância a um tipo de alimento, poderá verificar se a receita contém algum ingrediente ao qual ele seja alérgico.
 
-# Organização
-Notion
-Discord
+
 
 # Imagens do projeto
 

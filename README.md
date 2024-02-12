@@ -9,7 +9,7 @@
             Tecnologias usadas<br><br>
         </em>
 
-  <img src="https://img.shields.io/static/v1?label=Author&message=Yuri&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Yuri">
+  <img src="https://img.shields.io/static/v1?label=Author&message=Murilo&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Murilo">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Language: Typescript">
